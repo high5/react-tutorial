@@ -33,6 +33,6 @@ var UserGist = React.createClass({
 });
 
 React.render(
-  <UserGist source="https://api.github.com/users/octocat/gists" />,
+  <UserGist source="https://api.github.com/users/high5/gists" />,
   document.getElementById('content')
 );
